@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/960_12_col.css">
+		<link rel="stylesheet" href="css/text.css">
+		<link rel="stylesheet" href="css/style.css">
+		<title>Brett Cunningham Portfolio</title>
+	</head>
+
+	<body>
+		<div class="wrap container_12">
+			<header class="clearfix">
+				<h1 class="grid_4">
+					Brett Cunningham II
+					<p>I enjoy learning</p>
+				</h1>
+				<nav class="grid_8">
+					<ul>
+						<li><a href="#">About Me</a></li>
+						<li><a href="#">Resume</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<div class="main clearfix">
+				<div class="primary grid_8">
+					<h2 class="sectionHeads">Background</h2>
+					<section class="grid_8">Background</section>
+
+					<h2 class="sectionHeads">Professional</h2>
+					<section class="grid_8">Professional</section>
+
+					<h2 class="sectionHeads">Learning</h2>
+					<section class="grid_8">Learning</section>
+
+					<h2 class="sectionHeads">Teaching</h2>
+					<section class="grid_8">Teaching</section>
+
+				</div>
+				<aside class="grid_4">
+					<ul>
+						<li><a href="#">item</a></li>
+						<li><a href="#">item</a></li>
+						<li><a href="#">item</a></li>
+						<li><a href="#">item</a></li>
+						<li><a href="#">item</a></li>
+						<li><a href="#">item</a></li>
+					</ul>
+				</aside>
+			</div> <!-- end of main -->
+		</div> <!-- end of container -->
+	</body>
+</html>	
