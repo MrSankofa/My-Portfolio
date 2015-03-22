@@ -1,0 +1,110 @@
+/*body { 
+  background-image: url(../img/dammn1.jpg);
+}*/
+
+body { 
+  background: url(../img/chess.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container_12{
+	/*background: red;*/
+	background: #CCCC99;
+	height: 100%;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+h1{
+	color: #cccccc;
+}
+
+h1 a{
+	color: #e3e3e3;
+}
+
+h2{
+	color: #990000;
+}
+
+nav{
+	/*background: orange;*/
+	background: #003366;
+}
+
+nav li{
+	display: inline;
+	margin-left: 0;
+	margin-right: 30px;
+	font: bold 30px Arial, sans-serif;
+	letter-spacing: 1px;
+}
+
+nav li:last-child{
+	margin-right: 0;
+}
+
+nav li:nth-child(1) a{
+	color: green;
+}
+
+nav li:nth-child(2) a{
+	color: #3399FF;
+}
+
+nav li:nth-child(3) a{
+	color: red;
+}
+
+nav li:nth-child(4) a{
+	color: pink;
+}
+
+nav li a{
+	text-decoration: none;
+	font-family: fantasy;
+}
+
+
+
+aside{
+	background: green;
+}
+
+/*primary area for text (background, prof, etc)*/
+.primary{
+	/*background: #e3e3e3;*/
+	background: #CCCC99;
+}
+
+header{
+	/*background: yellow;*/
+	background: #003366;
+	margin-bottom: 0;
+	height: 58px;
+}
+
+header p {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
+
+.main {
+	margin: 30px 0px;
+}
+
+
+
+section div{
+	padding-left: 15px;
+}
